@@ -13,6 +13,12 @@ This is an English Dictionary Made by using Django
     <img src="https://contrib.rocks/image?repo=dheerajrao20/English-Dictionary" />
   </a>
   
+  <h2>Preview to project :</h2>
+  
+  <img src="https://github.com/dheerajrao20/English-Dictionary/blob/main/images/01.png?raw=true" />
+  <h3>After searching : </h3>
+  <img src="https://github.com/dheerajrao20/English-Dictionary/blob/main/images/02.png?raw=true" />
+  
   # 🎇How To Contribute 🎇
 
 To start contributing, follow the below guidelines:
