@@ -89,3 +89,19 @@ python manage.py runserver
 
 
 **9.** AND there is the project running in your browser.
+
+<h2> If these commands not working</h2>
+Just download the source code as zip file and **Navigate to other ZIP file which contains virtualenv files** inside the main zip file.
+
+**DOWNLOAD** the highlighted ZIP file and Simpily unzip it.
+
+<img src="https://github.com/dheerajrao20/English-Dictionary/blob/main/images/03.png?raw=true" />
+          
+Then **RUN** the project.
+ 
+```
+python manage.py runserver
+```
+          
+
+<h1 align="center">🎉🎉 **_HAPPY CONTRIBUTING!_** 🎉🎉 </h1>
