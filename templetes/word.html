@@ -9,6 +9,19 @@
     <link rel="stylesheet" href="{% static 'word.css' %}">
 </head>
 <body>
-    <h1>word</h1>
+    <div class="wrap">
+        <div class="search">
+          <form action="word">
+           <input type="text" name="search" class="searchTerm" placeholder="Input Your Word Here">
+           <button type="submit" class="searchButton">
+             Search
+          </button>
+         </form>
+        </div>
+        
+        <h3><span>Meaning:</span><br><br> {{meaning}}</h3>
+        
+        
+     </div>
 </body>
 </html>
